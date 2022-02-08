@@ -9,6 +9,6 @@ you can put the articles in favorite by clicking in the star or remove as well
 
 ![screen2](https://user-images.githubusercontent.com/95829236/153089076-da4d5978-0176-4117-9b75-e335dd0082aa.png)
 
-you can check all the articles that you mark and remove
+you can check all the articles that you mark in the favorites buttonin the home page
 
 ![screen3](https://user-images.githubusercontent.com/95829236/153089080-384db316-c5a0-4a5a-8cd6-2767534dc0be.png)
