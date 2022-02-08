@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="news_title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">22sp</item>
+        <item name="color">#807A7A</item>
+        <item name="fontFamily">@font/alfa_slab_one</item>
+    </style>
+    <style name="description_new">
+    <item name="android:textStyle">italic</item>
+    <item name="android:textSize">12sp</item>
+    <item name="color">#6A6767</item>
+    <item name="fontFamily">@font/adamina</item>
+    </style>
+</resources>
