@@ -7,8 +7,10 @@ choose the category of the news you want to read about it
 
 you can put the articles in favorite by clicking in the star or remove as well
 
-![screen2](https://user-images.githubusercontent.com/95829236/153089076-da4d5978-0176-4117-9b75-e335dd0082aa.png)
+![scc](https://user-images.githubusercontent.com/95829236/153090064-869d95df-1609-48cf-ae32-3b38246d5139.png)
 
 you can check all the articles that you mark in the favorites buttonin the home page
 
-![screen3](https://user-images.githubusercontent.com/95829236/153089080-384db316-c5a0-4a5a-8cd6-2767534dc0be.png)
+![scccpng](https://user-images.githubusercontent.com/95829236/153090066-218e4b7e-6a5a-435e-9ee2-fab234e6cc36.png)
+
+
